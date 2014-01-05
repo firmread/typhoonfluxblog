@@ -1,0 +1,227 @@
+/*
+Theme Name: Designer Theme
+Theme URI: http://www.dessign.net/designertheme
+Description: Designer Theme for WordPress is stylish, customizable, simple, and readable. Perfect for any illustrator or graphic designer. 
+Version: 1.5
+Author: Marios Lublinski
+Author URI: http://www.dessign.net
+Tags: 2 column theme, white, clean
+
+
+*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: arial, georgia, 'times new roman';
+  font-size: 11px;
+  background-color: #F1F0E9;
+}
+
+img {
+  border: none;
+}
+
+p {
+  margin: 10px 0;
+}
+
+a {
+  color: #494949;
+  text-decoration: none;
+}
+
+#main_container {
+  width: 876px;
+  margin: 0 auto;
+  padding: 0 12px;
+  background-color: #fff;
+}
+
+#header_container {
+  width: 876px;
+}
+
+#top_menu_container {
+  font-size: 12px;
+  font-weight:normal;
+  margin-top: 10px;
+  float:right;
+}
+
+#top_menu_container ul {
+  width: 700px;
+}
+
+#top_menu_container ul li {
+  background:  no-repeat;
+  background-position: top right;
+  display: inline;
+  border-bottom: 1px dotted #494949;
+  margin: 0 20px;
+}
+
+#top_menu_container ul li a {
+  background:  no-repeat;
+  background-position: top right;
+  padding-right: 50px;
+
+}
+
+#top_menu_container ul li a:hover {
+  background: #ccc no-repeat;
+  background-position: top right;
+}
+
+#content_container {
+  width: 876px;
+  padding-top: 10px;
+  padding-bottom:15px;
+}
+
+.featured_right {
+  float:left;
+  width: 865px;
+  height: 405px;
+  padding-left:5px;
+}
+
+.featured_right img {
+  width: 865px;
+  height: 405px;
+}
+
+.featured_right_single {
+  float:left;
+  width: 865px;
+}
+
+
+
+.featured_left h3 {
+  font-size: 24px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #494949;
+  font-weight: normal;
+}
+
+.featured_left ul {
+  list-style-type: none;
+}
+
+.featured_left ul li {
+  border-bottom: 1px solid #494949;
+  padding: 2px 0;
+}
+
+.featured_left ul li:hover {
+  background-color: #FFE500;
+}
+
+.featured_left ul li a {
+  padding: 2px 0 2px 5px;
+}
+
+.featured_left ul li a:hover {
+  background-color: #FFE500;
+  width: 100%;
+}
+
+.mid_content {
+  margin-top: 30px;
+  height: 25px;
+  padding: 10px 0;
+  border-top: 1px solid #494949;
+  border-bottom: 1px solid #494949;
+}
+
+.mid_content ul {
+  list-style-type: none;
+  float:left;
+}
+
+.mid_content ul li {
+  display: inline;
+  padding: 0 20px;
+  border-right: 1px solid #494949;
+}
+
+
+
+.featured_title {
+  color:#999;
+  padding: 10px 0;
+  border-top: 1px dotted #494949;
+  border-bottom: 1px dotted #494949;
+  font-size: 15px;
+  font-weight: normal;
+  text-align:center;
+}
+
+.featured_work_container {
+  width: 876px;
+  padding: 15px 0;
+}
+
+
+
+.featured_box {
+  width: 200px;
+  margin-left: 16px;
+  float:left;
+}
+
+.featured_box h3 {
+  font-size: 11px;
+}
+
+
+
+.featured_box h3 a:hover {
+  color: #7d7d7d;
+}
+
+
+.featured_box img {
+  width: 200px;
+  height: 120px;
+  padding: 5px 0px 15px 0px;
+}
+
+.find_out_more {
+  border-bottom: 1px solid #fff;
+  margin-top: 5px;
+}
+
+.port_box {
+  width: 340px;
+  float: left;
+  margin-right: 80px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.port_box img {
+  width: 340px;
+  height: 210px;
+  margin-bottom: 10px;
+}
+
+.port_title {
+  font-size: 24px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #494949;
+  margin-bottom: 10px;
+}
+
+#footer {
+  width: 876px;
+  border-top: 1px dotted #494949;
+  border-bottom: 1px dotted #494949;
+  padding: 5px 0;
+  text-align: right;
+  font-size: 10px;
+  margin-top: 0px;
+}

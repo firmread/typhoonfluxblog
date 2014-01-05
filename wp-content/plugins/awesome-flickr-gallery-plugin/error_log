@@ -1,0 +1,5 @@
+[12-Jan-2013 03:29:10] PHP Fatal error:  Call to undefined function  plugins_url() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/afg_libs.php on line 3
+[12-Jan-2013 11:20:17] PHP Fatal error:  Call to undefined function  plugins_url() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/afg_libs.php on line 3
+[12-Jan-2013 14:38:03] PHP Fatal error:  Call to undefined function  plugins_url() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/afg_libs.php on line 3
+[12-Jan-2013 23:07:55] PHP Fatal error:  Call to undefined function  plugins_url() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/afg_libs.php on line 3
+[13-Jan-2013 05:23:46] PHP Fatal error:  Call to undefined function  plugins_url() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/afg_libs.php on line 3

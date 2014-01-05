@@ -1,0 +1,7 @@
+[25-Oct-2011 20:13:01] PHP Warning:  Invalid argument supplied for foreach() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/add_gallery.php on line 13
+[25-Oct-2011 20:13:01] PHP Warning:  Invalid argument supplied for foreach() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/add_gallery.php on line 19
+[25-Oct-2011 20:13:02] PHP Warning:  Invalid argument supplied for foreach() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/add_gallery.php on line 32
+[25-Oct-2011 20:24:45] PHP Warning:  Invalid argument supplied for foreach() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/add_gallery.php on line 13
+[25-Oct-2011 20:24:45] PHP Warning:  Invalid argument supplied for foreach() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/add_gallery.php on line 19
+[25-Oct-2011 20:24:45] PHP Warning:  Invalid argument supplied for foreach() in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/awesome-flickr-gallery-plugin/add_gallery.php on line 32
+[27-Dec-2012 08:55:22] PHP Fatal error:  Cannot redeclare soundcloud_shortcode() (previously declared in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/soundcloud-shortcode/soundcloud-shortcode.php:36) in /home7/tothongc/public_html/typhoonflux/wp-content/plugins/jetpack/modules/shortcodes/soundcloud.php on line 60
