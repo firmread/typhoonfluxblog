@@ -1,0 +1,91 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 09 Jul 2016 09:30:09 at http://typhoonflux.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://typhoonflux.tothong.com -O1 "\\Mac\Home\Downloads\My Web Sites\typhoonflux" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:33:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 2020471 got 947319): typhoonflux.tothong.com/wp-content/uploads/2011/10/A9.jpg
+09:35:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 2067384 got 598379): typhoonflux.tothong.com/wp-content/uploads/2011/10/A12.jpg
+09:35:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 2054467 got 1713819): typhoonflux.tothong.com/wp-content/uploads/2011/10/A11.jpg
+09:37:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 2053196 got 931259): typhoonflux.tothong.com/wp-content/uploads/2011/10/P1.jpg
+09:38:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 2092433 got 615899): typhoonflux.tothong.com/wp-content/uploads/2011/10/P4.jpg
+09:39:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 2064933 got 1329839): typhoonflux.tothong.com/wp-content/uploads/2011/10/P2.jpg
+09:42:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 2015716 got 1018859): typhoonflux.tothong.com/wp-content/uploads/2011/10/P6.30.jpg
+09:46:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 1952506 got 1218879): typhoonflux.tothong.com/wp-content/uploads/2011/10/P9.jpg
+09:47:56	Error: 	"Method Not Allowed" (405) at link typhoonflux.tothong.com/xmlrpc.php (from typhoonflux.tothong.com/)
+09:47:56	Error: 	"Forbidden" (403) at link typhoonflux.tothong.com/comments/feed/ (from typhoonflux.tothong.com/)
+09:48:16	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/ (from typhoonflux.tothong.com/)
+09:50:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 10804575 got 1149020): typhoonflux.tothong.com/files/phase1timelapse.ogg
+09:56:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 1684290 got 1299179): typhoonflux.tothong.com/wp-content/uploads/2011/10/night.jpg
+09:58:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 6128226 got 1192594): typhoonflux.tothong.com/wp-content/uploads/2011/10/presentation_web.pdf
+09:58:08	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/%22http:/www.flickr.com/photos/61591647@N07/6280680399/%22 (from typhoonflux.tothong.com/)
+09:58:09	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/%22http:/www.flickr.com/photos/61591647@N07/6281210464/%22 (from typhoonflux.tothong.com/)
+09:58:09	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/%22http:/www.flickr.com/photos/61591647@N07/6280829219/%22 (from typhoonflux.tothong.com/)
+09:58:09	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/%22http:/www.flickr.com/photos/61591647@N07/6280825407/%22 (from typhoonflux.tothong.com/)
+09:58:09	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/%22http:/www.flickr.com/photos/61591647@N07/6280798117/%22 (from typhoonflux.tothong.com/)
+09:58:26	Warning: 	Retry after error -4 (Incorrect length (947319 Bytes, 2020471 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/A9.jpg (from typhoonflux.tothong.com/)
+09:58:26	Warning: 	Retry after error -4 (Incorrect length (1713819 Bytes, 2054467 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/A11.jpg (from typhoonflux.tothong.com/)
+09:58:38	Warning: 	Retry after error -4 (Incorrect length (598379 Bytes, 2067384 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/A12.jpg (from typhoonflux.tothong.com/)
+09:59:21	Warning: 	Retry after error -4 (Incorrect length (931259 Bytes, 2053196 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/P1.jpg (from typhoonflux.tothong.com/)
+10:01:16	Warning: 	Retry after error -4 (Incorrect length (1329839 Bytes, 2064933 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/P2.jpg (from typhoonflux.tothong.com/)
+10:02:20	Warning: 	Retry after error -4 (Incorrect length (615899 Bytes, 2092433 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/P4.jpg (from typhoonflux.tothong.com/)
+10:02:33	Warning: 	Retry after error -4 (Incorrect length (1018859 Bytes, 2015716 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/P6.30.jpg (from typhoonflux.tothong.com/)
+10:03:13	Warning: 	Retry after error -4 (Incorrect length (1218879 Bytes, 1952506 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/P9.jpg (from typhoonflux.tothong.com/)
+10:04:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 2015716 got 1609880): typhoonflux.tothong.com/wp-content/uploads/2011/10/P6.30.jpg
+10:20:02	Warning: 	Retry after error -4 (Incorrect length (1149020 Bytes, 10804575 expected)) at link typhoonflux.tothong.com/files/phase1timelapse.ogg (from typhoonflux.tothong.com/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-1-documentation%2F (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-1-documentation%2F&format=xml (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1-documentation/%22http:/www.flickr.com/photos/61591647@N07/6280680399/%22 (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1-documentation/%22http:/www.flickr.com/photos/61591647@N07/6281210464/%22 (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1-documentation/%22http:/www.flickr.com/photos/61591647@N07/6280829219/%22 (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1-documentation/%22http:/www.flickr.com/photos/61591647@N07/6280825407/%22 (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1-documentation/%22http:/www.flickr.com/photos/61591647@N07/6280798117/%22 (from typhoonflux.tothong.com/phase-1-documentation/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-ii%2F (from typhoonflux.tothong.com/phase-ii/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-ii%2F&format=xml (from typhoonflux.tothong.com/phase-ii/)
+10:20:28	Warning: 	Retry after error -4 (Incorrect length (1299179 Bytes, 1684290 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/night.jpg (from typhoonflux.tothong.com/phase-ii/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-3%2F (from typhoonflux.tothong.com/phase-3/)
+10:20:28	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-3%2F&format=xml (from typhoonflux.tothong.com/phase-3/)
+10:20:28	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/two_way.jpg (from typhoonflux.tothong.com/phase-3/)
+10:20:31	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/concept.jpg (from typhoonflux.tothong.com/phase-3/)
+10:21:12	Warning: 	Retry after error -4 (Incorrect length (1192594 Bytes, 6128226 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/presentation_web.pdf (from typhoonflux.tothong.com/phase-3/)
+10:21:31	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/iteration_3.jpg (from typhoonflux.tothong.com/phase-3/)
+10:22:02	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/iteration_4_3-1024x796.jpg (from typhoonflux.tothong.com/phase-3/)
+10:22:13	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Ffinal-phase%2F (from typhoonflux.tothong.com/final-phase/)
+10:22:13	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Ffinal-phase%2F&format=xml (from typhoonflux.tothong.com/final-phase/)
+10:22:13	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/11/countdown.jpg (from typhoonflux.tothong.com/final-phase/)
+10:22:13	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/11/gameplay.jpg (from typhoonflux.tothong.com/final-phase/)
+10:23:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 10804575 got 2570779): typhoonflux.tothong.com/files/phase1timelapse.ogg
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-1%2F (from typhoonflux.tothong.com/phase-1/)
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftyphoonflux.tothong.com%2Fphase-1%2F&format=xml (from typhoonflux.tothong.com/phase-1/)
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1/%22http:/www.flickr.com/photos/61591647@N07/6280680399/%22 (from typhoonflux.tothong.com/phase-1/)
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1/%22http:/www.flickr.com/photos/61591647@N07/6281210464/%22 (from typhoonflux.tothong.com/phase-1/)
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1/%22http:/www.flickr.com/photos/61591647@N07/6280829219/%22 (from typhoonflux.tothong.com/phase-1/)
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1/%22http:/www.flickr.com/photos/61591647@N07/6280825407/%22 (from typhoonflux.tothong.com/phase-1/)
+10:23:01	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/phase-1/%22http:/www.flickr.com/photos/61591647@N07/6280798117/%22 (from typhoonflux.tothong.com/phase-1/)
+10:23:04	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/author/admin/%22http:/www.flickr.com/photos/61591647@N07/6280680399/%22 (from typhoonflux.tothong.com/author/admin/)
+10:23:04	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/author/admin/%22http:/www.flickr.com/photos/61591647@N07/6281210464/%22 (from typhoonflux.tothong.com/author/admin/)
+10:23:04	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/author/admin/%22http:/www.flickr.com/photos/61591647@N07/6280829219/%22 (from typhoonflux.tothong.com/author/admin/)
+10:23:04	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/author/admin/%22http:/www.flickr.com/photos/61591647@N07/6280825407/%22 (from typhoonflux.tothong.com/author/admin/)
+10:23:04	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/author/admin/%22http:/www.flickr.com/photos/61591647@N07/6280798117/%22 (from typhoonflux.tothong.com/author/admin/)
+10:23:05	Warning: 	Retry after error -4 (Incorrect length (1609880 Bytes, 2015716 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/P6.30.jpg (from typhoonflux.tothong.com/)
+10:23:06	Warning: 	Retry after error -4 (Incorrect length (2570779 Bytes, 10804575 expected)) at link typhoonflux.tothong.com/files/phase1timelapse.ogg (from typhoonflux.tothong.com/)
+10:24:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 1196707 got 942939): typhoonflux.tothong.com/wp-content/uploads/2011/10/iteration_3.jpg
+10:24:02	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/category/portfolio/%22http:/www.flickr.com/photos/61591647@N07/6280680399/%22 (from typhoonflux.tothong.com/category/portfolio/)
+10:24:02	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/category/portfolio/%22http:/www.flickr.com/photos/61591647@N07/6281210464/%22 (from typhoonflux.tothong.com/category/portfolio/)
+10:24:02	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/category/portfolio/%22http:/www.flickr.com/photos/61591647@N07/6280829219/%22 (from typhoonflux.tothong.com/category/portfolio/)
+10:24:02	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/category/portfolio/%22http:/www.flickr.com/photos/61591647@N07/6280825407/%22 (from typhoonflux.tothong.com/category/portfolio/)
+10:24:02	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/category/portfolio/%22http:/www.flickr.com/photos/61591647@N07/6280798117/%22 (from typhoonflux.tothong.com/category/portfolio/)
+10:24:05	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/category/portfolio/?afg1_page_id=4 (from typhoonflux.tothong.com/category/portfolio/)
+10:24:07	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Julaa)
+10:24:07	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/g.gif (from stats.wp.com/e-201627.js)
+10:24:07	Error: 	"Not Found" (404) at link typhoonflux.tothong.com/c.gif (from stats.wp.com/e-201627.js)
+10:24:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 10804575 got 3528258): typhoonflux.tothong.com/files/phase1timelapse.ogg
+10:25:56	Warning: 	Retry after error -4 (Incorrect length (2605407 Bytes, 6128226 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/presentation_web.pdf (from typhoonflux.tothong.com/phase-3/)
+10:25:56	Warning: 	Retry after error -4 (Incorrect length (942939 Bytes, 1196707 expected)) at link typhoonflux.tothong.com/wp-content/uploads/2011/10/iteration_3.jpg (from typhoonflux.tothong.com/phase-3/)
+10:25:56	Warning: 	Retry after error -4 (No data (connection closed)) at link typhoonflux.tothong.com/wp-content/uploads/2011/11/countdown.jpg (from typhoonflux.tothong.com/final-phase/)
+10:25:56	Error: 	"Incorrect length (3528258 Bytes, 10804575 expected)" (-4) after 2 retries at link typhoonflux.tothong.com/files/phase1timelapse.ogg (from typhoonflux.tothong.com/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 58 minutes 24 seconds : 246 links scanned, 180 files written (82411872 bytes overall) [84734570 bytes received at 24182 bytes/sec], 31023550 bytes transferred using HTTP compression in 118 files, ratio 94%, 2.6 requests per connection
+(42 errors, 38 warnings, 0 messages)
